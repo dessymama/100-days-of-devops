@@ -1,0 +1,1 @@
+Day 2: Learned Linux permissions (chmod 000, 755, 644). Understood file security and execution rights.
