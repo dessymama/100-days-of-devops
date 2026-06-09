@@ -1,0 +1,1 @@
+Day 3: Learned bash scripting. Created a system info script using date, whoami, pwd, and df -h.
