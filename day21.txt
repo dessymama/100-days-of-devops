@@ -1,0 +1,1 @@
+Day 21: Learned Linux file system structure (/etc, /var, /home, /proc, /usr)
