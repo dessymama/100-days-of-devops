@@ -1,1 +1,1 @@
-Day 19: Learned Linux process management (ps, top, jobs, kill, background/foreground processes)
+Day 19: Learned Linux process management (ps, top, jobs, fg/bg, kill processes, system monitoring)
