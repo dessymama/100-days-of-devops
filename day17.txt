@@ -1,0 +1,1 @@
+Day 17: Learned Linux networking (DNS concept, curl, HTTP status codes, connectivity troubleshooting)
