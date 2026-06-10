@@ -1,0 +1,1 @@
+Day 22: Learned Linux logs and debugging (dmesg, logcat, grep, troubleshooting basics)
