@@ -1,0 +1,1 @@
+Day 14: Learned Linux system monitoring using uptime, free, df, and kernel inspection
