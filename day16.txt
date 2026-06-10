@@ -1,0 +1,1 @@
+Day 16: Learned Linux logs and debugging concepts (logcat, dmesg limitations, uptime, system load)
