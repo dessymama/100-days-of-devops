@@ -1,1 +1,1 @@
-Day 23: Learned Linux networking basics (IP, hostname, ping, curl, DNS, nslookup)
+Day 23: Learned Linux networking basics (hostname, ping, curl, DNS, nslookup)
