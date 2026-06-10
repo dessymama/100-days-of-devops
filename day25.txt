@@ -1,0 +1,1 @@
+Day 25: Learned Linux environment variables, PATH, export, and shell configuration
