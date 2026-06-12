@@ -1,0 +1,1 @@
+Day 27: Learned cron scheduling, crontab basics, and task automation
