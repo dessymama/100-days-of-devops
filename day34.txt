@@ -1,0 +1,1 @@
+Day 34: Learned package management using pkg, apt, install, update, upgrade, search, and uninstall
