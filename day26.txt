@@ -1,0 +1,1 @@
+Day 26: Learned Bash scripting basics, chmod, variables, and script arguments
