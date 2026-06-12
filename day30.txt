@@ -1,0 +1,1 @@
+Day 30: Learned Linux networking basics (ports, sockets, ss, ping, curl, DNS)
