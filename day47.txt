@@ -1,0 +1,1 @@
+Day 47: Learned EC2 fundamentals, AMI, instance types and security groups
