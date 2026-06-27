@@ -1,0 +1,1 @@
+Day 52: Practiced Linux file management, navigation, file operations, and permissions.
