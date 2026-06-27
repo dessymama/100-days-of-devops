@@ -1,0 +1,1 @@
+Day 50: Launched a new AWS EC2 Ubuntu instance, connected via SSH, installed and configured Nginx, and practiced AWS networking troubleshooting (Security Groups, Route Tables, Network ACLs, and Internet Gateway).
