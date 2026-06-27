@@ -1,0 +1,1 @@
+Day 51: Created and deployed a custom HTML website on an AWS EC2 instance using Nginx.
