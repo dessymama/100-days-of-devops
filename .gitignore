@@ -1,0 +1,12 @@
+# Log files
+*.log
+
+# Generated reports
+linux-practice/log_archive/
+linux-practice/log_backups/
+linux-practice/process_reports/
+linux-practice/service_reports/
+linux-practice/system_reports/
+linux-practice/daily_reports/
+linux-practice/final_reports/
+linux-practice/final_backups/
